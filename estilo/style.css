@@ -196,6 +196,6 @@ footer a:hover{
 }
 
 img{
-    display: block;
     margin: auto;
+    display: flex;
 }
